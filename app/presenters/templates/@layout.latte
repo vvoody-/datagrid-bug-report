@@ -41,5 +41,10 @@
 	<!-- Include bootstrap.js for proper behaviour of ColumnStatus -->
 	<script src="{$basePath}/bower_components/bootstrap/dist/js/bootstrap.js"></script>
 
+	<!-- Initialize nette.ajax.js after loading the DOM. -->
+	<script>
+		$.nette.init();
+	</script>
+
 </body>
 </html>
