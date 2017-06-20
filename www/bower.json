@@ -1,0 +1,20 @@
+{
+  "name": "ublaboo datagrid bug report",
+  "homepage": "https://github.com/vvoody-/datagrid-bug-report",
+  "authors": [
+    "Samo Lisý <g.vvoody@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ublaboo-datagrid": "^5.4.1"
+  }
+}

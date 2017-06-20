@@ -1,2 +1,3 @@
 /vendor
 app/config/config.local.neon
+/www/bower_components
